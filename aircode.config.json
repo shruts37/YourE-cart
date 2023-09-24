@@ -1,0 +1,10 @@
+{
+  "name": "YourE-cat",
+  "runtime": "node/v16",
+  "retion": "India",
+  "envs": [
+    "ACCESS_TOKEN_SECRET",
+    "STRIPE_KEY"
+  ],
+  "typescript": false
+}
